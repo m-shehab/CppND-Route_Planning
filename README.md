@@ -19,6 +19,8 @@ You are required to include a third party code to your project. This is found in
 
 [https://github.com/udacity/CppND-Route-Planning-Project/tree/master/thirdparty](https://github.com/udacity/CppND-Route-Planning-Project/tree/master/thirdparty)
 
+Create a folder named by `thirdparty` in CppND-Route_Planning project and copy the two folders to it.
+
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
