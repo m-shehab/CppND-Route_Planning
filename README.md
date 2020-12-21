@@ -14,7 +14,11 @@ or with SSH:
 ```
 git clone git@github.com:m-shehab/CppND-Route_Planning.git --recurse-submodules
 ```
-
+## Third Party 
+You are required to include a third party code to your project. This is found in the following repository:
+```
+https://github.com/udacity/CppND-Route-Planning-Project/tree/master/thirdparty
+```
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
